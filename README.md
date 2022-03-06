@@ -4,14 +4,14 @@
 <div align="center">
   <img border-radius: 15px src="invaderz.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="INVADERZ" src="https://img.shields.io/badge/Alanmonek-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="INVADERZ" src="https://img.shields.io/badge/Invadersofc-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Alanmonek"><img title="Author" src="https://img.shields.io/badge/Author-Alanmonek/INVADERZ?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Invadersofc"><img title="Author" src="https://img.shields.io/badge/Author-Invadersofc/INVADERZ?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Alanmonek">Alanmonek</a> to make it public
+Project created by <a href="https://github.com/Invadersofc">Invadersofc</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,13 +21,13 @@ Project created by <a href="https://github.com/Alanmonek">Alanmonek</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/Alanmonek/INVADERZ ">
-    <img src="https://img.shields.io/github/repo-size/Alanmonek/INVADERZ?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Invadersofc/INVADERZ ">
+    <img src="https://img.shields.io/github/repo-size/Invadersofc/INVADERZ?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Alanmonek/followers"><img title="Followers" src="https://img.shields.io/github/followers/Alanmonek?color=red&style=flat-circle"></a>
-<a href="https://github.com/Alanmonek/INVADERZ/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Alanmonek/INVADERZ?color=red&style=flat-square"></a>
-<a href="https://github.com/Alanmonek/INVADERZ/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Alanmonek/INVADERZ?color=red&style=flat-square"></a>
-<a href="https://github.com/Alanmonek/INVADERZ/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alanmonek/INVADERZ?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Invadersofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/Invadersofc?color=red&style=flat-circle"></a>
+<a href="https://github.com/Invadersofc/INVADERZ/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Invadersofc/INVADERZ?color=red&style=flat-square"></a>
+<a href="https://github.com/Invadersofc/INVADERZ/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Invadersofc/INVADERZ?color=red&style=flat-square"></a>
+<a href="https://github.com/Invadersofc/INVADERZ/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Invadersofc/INVADERZ?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
@@ -54,7 +54,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alanmonek/INVADERZ)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Invadersofc/INVADERZ)
      </div>
 <br>
 <br >
@@ -85,9 +85,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![Alanmonek](https://github.com/Alanmonek.png?size=100)](https://github.com/Alanmonek) 
+  [[![Invadersofc](https://github.com/Invadersofc.png?size=100)](https://github.com/Invadersofc) 
 
-[Alanmonek](https://github.com/Alanmonek)
+[Invadersofc](https://github.com/Invadersofc)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
