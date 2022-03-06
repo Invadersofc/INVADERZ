@@ -1,7 +1,7 @@
 {
     "name": "INVADERZ",
     "description": "INVADERZ BOT - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "invaderz.jpg",
+    "logo": "https://raw.githubusercontent.com/Alanmonek/INVADERZ/master/invaderz.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Alanmonek/INVADERZ",
     "website":   "under maintenance",
