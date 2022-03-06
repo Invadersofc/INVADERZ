@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
-RECODDED BY AFNANPPLK
+RECODDED BY Team invaders
 Plk  
 */
 
@@ -134,7 +134,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Pinky bot working perfectly 👻')
+            chalk.green.bold('INVADERZ BOT working perfectly 👻')
         );
     });
     
@@ -246,7 +246,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'PINKYBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'INVADERZBOT_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
